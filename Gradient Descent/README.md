@@ -2,5 +2,5 @@
 
 ## File descriptions:
 
-- gradient descent.ipynb:
+- Gradient_Descent.ipynb:
   - Building gradient descent method to both single and multiple variables.
