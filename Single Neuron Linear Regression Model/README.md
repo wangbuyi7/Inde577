@@ -5,6 +5,7 @@
 - Datasets: Folders containing all data files used in this module
 - Linear_Regression.ipynb:
   - Building and implementing Linear Regression Model from Forest fire data in Humidity and Temperature variables.
+  - Comparing different results by changing the learning rate.
 
 ## Citation:
 
