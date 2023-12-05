@@ -7,3 +7,7 @@
   - Building neural network models from mnist handwriting training data.
   - Set 2 hidden layers and 10 outputs. 
   - Implement the Feedforward process and Backpropagation Phase with Stochastic Gradient Descent, compare the mse of both 2 models
+
+## Datasets:
+
+- The [MNIST data set](https://en.wikipedia.org/wiki/MNIST_database)
