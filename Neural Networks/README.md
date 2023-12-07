@@ -10,4 +10,4 @@
 
 ## Datasets:
 
-- The [MNIST data set](https://en.wikipedia.org/wiki/MNIST_database)
+- The cifar100 data set: https://www.cs.toronto.edu/~kriz/cifar.html
