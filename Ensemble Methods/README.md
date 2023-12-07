@@ -8,6 +8,6 @@
   - Compared errors and accuracies from Hard Voting, Bagging and Random Forests methods.
  
 
-## Citation:
+## Datasets:
   - The data was downloaded from UCI Machine Learning Repository.
   - Parmar, R. (2018, July 9). Wine quality. Kaggle. https://www.kaggle.com/datasets/rajyellow46/wine-quality 
